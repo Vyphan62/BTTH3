@@ -1,0 +1,80 @@
+body{
+    background-color: #ede1e1;
+}
+
+.gptb2{
+    background: #467aeb;
+    width: 570px;
+    height: 350px;
+    position: absolute;
+    top: 0px;
+    left: 10px;
+    border: 30px #011b54;
+    border-radius: 10px;
+    margin: 50px auto;
+}
+
+h1{
+    
+    color: #000000;
+    top: 10px;
+    left: 40px;
+    position: absolute;
+}
+
+input[type="text"] {
+      
+    width: 70%;
+    padding: 5px;
+
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+#a{
+    position: absolute;
+    top: 80px;
+    left: 90px;
+}
+#b{
+    position: absolute;
+    top: 140px;
+    left: 90px;
+}
+#c{
+    position: absolute;
+    top: 200px;
+    left: 90px;
+}
+.a1{
+    color: #ffffff;
+    position: absolute;
+    top: 85px;
+    left: 30px;
+}
+.b1{
+    color: #ffffff;
+    position: absolute;
+    top: 145px;
+    left: 30px;
+}
+.c1{
+    color: #ffffff;
+    position: absolute;
+    top: 205px;
+    left: 30px;
+}
+button{
+    background-color: #0611a5;
+    color: #ffffff;
+    width: 10%;
+    position: absolute;
+    top: 300px;
+    left: 30px;
+    cursor: pointer;
+}
+.result{
+    font-weight: bold;
+    position: absolute;
+    top: 200px;
+    left: 30px;
+}
